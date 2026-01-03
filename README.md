@@ -14,7 +14,7 @@ Interactive Excel dashboard analyzing sales performance by store, department and
 - Cleaned and transformed using Power Query
 
 ## Dashboard Preview
-![Dashboard](screenshots/retail_dashboard_overview.png)
+screenshots/retail dashboard overview.png
 
 ## Interactive Version
 https://1drv.ms/x/c/F6C2F4C1831A2F3D/IQD1ygXVQ2xgTbEq5qQFB1YCAatek8W4yWsh_6f0fzuGBrs?e=bYE4xh
