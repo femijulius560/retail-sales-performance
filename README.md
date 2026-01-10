@@ -56,4 +56,4 @@ screenshots/retail dashboard overview.png
 
 ## Interactive Version
 - Due to GitHub file size limits, the Excel workbook is hosted externally:
-https://1drv.ms/x/c/F6C2F4C1831A2F3D/IQD1ygXVQ2xgTbEq5qQFB1YCAatek8W4yWsh_6f0fzuGBrs?e=bYE4xh
+https://1drv.ms/x/c/F6C2F4C1831A2F3D/IQDSFOZ1IGXTQI0qf0xt4hKUAR-X0VGY3XN0B59lV9A80zk?e=TphaqD
